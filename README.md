@@ -1,4 +1,4 @@
-# My FrontPedia 
+# FrontPedia
 [Link](https://luisacmn.github.io/csb-84ohm1/)
 
 ## About
