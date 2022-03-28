@@ -13,7 +13,7 @@ To do:
 - CSS
 - Javascript
 - Bootstrap
-- React
+- React.js
 
 ## Approach
 - Make it responsive using Bootstrap CSS Framework;
