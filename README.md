@@ -2,7 +2,7 @@
 [Link](https://luisacmn.github.io/csb-84ohm1/)
 
 ## About
-This is a collection of selected tools to help frontend developers and web designers to create beautiful and responsive websites.
+This is a collection of selected tools to help students, frontend developers and web designers to create beautiful and responsive websites.
 A shortcut to find the main tools developers and designers use everyday. 
 
 To do: 
