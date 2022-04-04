@@ -4,7 +4,6 @@
 body {
   font-family: sans-serif;
   margin: 0 auto;
-  padding: 0 40px;
   background-color: #EEEDDE;
   text-align: center;
 }
@@ -19,13 +18,13 @@ body {
 }
 
 .heading {
-  font-family: 'Montserrat', sans-serif;
-  text-align: center;
-  font-size: 2em;
+  font-family: 'Source Code Pro', monospace;
+  text-align: left;
+  font-size: 1.8em;
   color: white;
-  margin: 20px 0 30px;
   background-color: #222;
-  padding:5px
+  padding: 8px 25px;
+  margin: 0 0 20px 0;
 }
 
 .card {
@@ -71,7 +70,15 @@ body {
 
 }
 
+.externalLink, .externalLink:visited{
+  text-decoration: none;
+  color: inherit;
+}
+
+
+
 footer {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   margin: 20px auto 10px;
 }
+
