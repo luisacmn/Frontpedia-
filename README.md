@@ -1,12 +1,9 @@
 # FrontPedia
-[Link](https://luisacmn.github.io/csb-84ohm1/)
+[Link](https://csb-84ohm1.netlify.app/)
 
 ## About
 This is a collection of selected tools to help students, frontend developers and web designers to create beautiful and responsive websites.
 A shortcut to find the main tools developers and designers use everyday. 
-
-To do: 
-- link each card to their webpage
 
 ## Technologies
 - HTML
