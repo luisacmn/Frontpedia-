@@ -16,9 +16,10 @@ To do:
 - React.js
 
 ## Approach
-- Make it responsive using Bootstrap CSS Framework;
-- React components to structure the page and make it simple;
-- Props to reutilize the struture of the cards and change only the content;
+- Make it responsive using Bootstrap;
+- Use React components to structure the page and make it simple and clean;
+- Use Props to reutilize the struture of the cards and change only the content;
+- Import dependency to redirect to an external url when the card is clicked 
 
 ## Status
 In progress. 
